@@ -1,0 +1,6 @@
+{
+  "name": "NovaStore E-Commerce",
+  "description": "A modern, clean, and fully functional e-commerce platform with separate user store and admin dashboard, complete with cart, checkout, order tracking, product management, and JWT authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
